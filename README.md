@@ -3,7 +3,7 @@ This repository contains the data and code used in a study on the individual and
 This repository is organized as follows:
 
 ```mermaid
-graph TD
+graph LR
     R["ipv-colombia-multilevel"] --> D["data"]
     R --> S["scripts"]
     R --> O["output"]
@@ -34,6 +34,3 @@ graph TD
     O --> O2["02_spatial_analysis"]
     O --> O3["03_multilevel_model"]
 ```
-
-
-
