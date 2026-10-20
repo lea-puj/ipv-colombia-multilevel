@@ -1,0 +1,31 @@
+Nivel,Variable,beta,OR,IC95,p.value,sig
+Nivel individual: Sociodemográficas,Estado civil (Ref.: Casada): Separada/Divorciada/Viuda,1.185,3.27,2.98 – 3.59,<0.001,TRUE
+Nivel individual: Sociodemográficas,Estado civil (Ref.: Casada): Unión libre,0.324,1.38,1.29 – 1.48,<0.001,TRUE
+Nivel individual: Sociodemográficas,Edad - Centrada,-0.004,1,0.99 – 1,0.059,TRUE
+Nivel individual: Sociodemográficas,Pertenencia étnica (Ref.: Ninguna): Afro,0.19,1.21,1.08 – 1.36,0.001,TRUE
+Nivel individual: Sociodemográficas,Pertenencia étnica (Ref.: Ninguna): Indígena,-0.042,0.96,0.86 – 1.07,0.458,FALSE
+Nivel individual: Sociodemográficas,Pertenencia étnica (Ref.: Ninguna): Palenquera,0.038,1.04,0.53 – 2.04,0.912,FALSE
+Nivel individual: Sociodemográficas,Pertenencia étnica (Ref.: Ninguna): Raizal,0.436,1.55,1.08 – 2.22,0.017,TRUE
+Nivel individual: Sociodemográficas,Pertenencia étnica (Ref.: Ninguna): Rom,-0.282,0.75,0.25 – 2.31,0.622,FALSE
+Nivel individual: Sociodemográficas,Número de hijos/as - Centrada,0.076,1.08,1.05 – 1.11,<0.001,TRUE
+Nivel individual: Sociodemográficas,Zona de residencia (Ref.: Rural): Urbana,0.175,1.19,1.07 – 1.32,<0.001,TRUE
+Nivel individual: Económicas,Nivel de riqueza (Ref.: Q1): Q2,0,1,0.89 – 1.12,0.996,FALSE
+Nivel individual: Económicas,Nivel de riqueza (Ref.: Q1): Q3,-0.071,0.93,0.81 – 1.07,0.311,FALSE
+Nivel individual: Económicas,Nivel de riqueza (Ref.: Q1): Q4,-0.112,0.89,0.76 – 1.05,0.177,FALSE
+Nivel individual: Económicas,Nivel de riqueza (Ref.: Q1): Q5,-0.029,0.97,0.79 – 1.2,0.785,FALSE
+Nivel individual: Económicas,Nivel educativo (Ref.: Sin educación): Primaria,0.413,1.51,1.27 – 1.8,<0.001,TRUE
+Nivel individual: Económicas,Nivel educativo (Ref.: Sin educación): Secundaria,0.577,1.78,1.49 – 2.13,<0.001,TRUE
+Nivel individual: Económicas,Nivel educativo (Ref.: Sin educación): Superior,0.593,1.81,1.49 – 2.19,<0.001,TRUE
+Nivel individual: Económicas,Situación laboral (Ref.: No trabaja): Trabaja,0.181,1.2,1.13 – 1.27,<0.001,TRUE
+Nivel individual: Normas Sociales,Presenció IPV en la infancia (Ref.: No): Sí,0.53,1.7,1.6 – 1.81,<0.001,TRUE
+Nivel individual: Normas Sociales,Edad a la primera unión - Centrada,-0.018,0.98,0.97 – 0.99,0.002,TRUE
+Nivel individual: Normas Sociales,Autonomía en la toma de decisiones (Ref.: No autónoma): Es autónoma,0.258,1.29,1.21 – 1.39,<0.001,TRUE
+Nivel contextual,Autonomía municipal en la toma de decisiones - Centrada,-0.62,0.54,0.31 – 0.94,0.029,TRUE
+Nivel contextual,Participación laboral (Mujeres) - Centrada,0.969,2.64,0.93 – 7.46,0.068,TRUE
+Nivel contextual,Proporción hogares más ricos (Q4 y Q5) - Centrada,0.247,1.28,0.79 – 2.07,0.311,FALSE
+Nivel contextual,Proporción de mujeres con educación superior - Centrada,-0.57,0.57,0.29 – 1.09,0.087,TRUE
+Interacción 1er Nivel,Edad a la primera unión (centrada) × Zona de residencia (urbana),-0.027,0.97,0.96 – 0.99,<0.001,TRUE
+Interacción Nivel Cruzado,Q2 (Ref.: Q1) × Participación laboral (Mujeres),0.059,1.06,0.41 – 2.76,0.904,FALSE
+Interacción Nivel Cruzado,Q3 (Ref.: Q1) × Participación laboral (Mujeres),-0.408,0.67,0.21 – 2.15,0.496,FALSE
+Interacción Nivel Cruzado,Q4 (Ref.: Q1) × Participación laboral (Mujeres),-0.65,0.52,0.12 – 2.31,0.391,FALSE
+Interacción Nivel Cruzado,Q5 (Ref.: Q1) × Participación laboral (Mujeres),-2.335,0.1,0.02 – 0.61,0.013,TRUE

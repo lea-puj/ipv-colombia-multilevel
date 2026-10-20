@@ -1,0 +1,10 @@
+Variable,Chi2,Valor.P,V.Cramer
+Estado civil,140.18,<0.001,0.075
+Etnicidad,6.8,<0.001,0.017
+Area (Urbana/Rural),19.35,<0.001,0.028
+Quintiles Riqueza,9.88,<0.001,0.02
+Nivel educativo,11.96,<0.001,0.022
+Trabaja,19.83,<0.001,0.028
+Testigo de violencia,64.63,<0.001,0.051
+Actitud frente al IPV,2.21,0.137,0.009
+Autonomía en toma de decisiones,64.16,<0.001,0.051

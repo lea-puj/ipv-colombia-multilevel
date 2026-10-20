@@ -1,0 +1,2 @@
+variable,n_mun,k,I_obs,E_I,Var_I,z_score,p_MC,p_analitico,nsim,pesos
+inc_ipv,292,5,0.312,-0.0034,0.001172,9.2126,1e-4,0,9999,KNN k=5 (W)

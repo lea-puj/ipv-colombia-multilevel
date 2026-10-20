@@ -1,0 +1,7 @@
+Variable,Rho_Spearman,p_value
+Actitud frente al IPV (municipal),0.01,0.89
+Autonomía en la toma de decisiones (municipal),-0.1,0.093
+IPM (Índice de Pobreza Multidimensional),-0.15,0.01
+Participación laboral (Mujeres),0.16,0.0076
+Prop. hogares más ricos (Q4 y Q5),0.13,0.03
+Prop. mujeres con educación superior,0.1,0.075

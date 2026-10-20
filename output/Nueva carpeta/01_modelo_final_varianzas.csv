@@ -1,0 +1,4 @@
+grp,var1,var2,vcov,sdcor
+codmpio,(Intercept),NA,0.14973092609074035,0.3869508057760577
+codmpio,decisionEs autónoma,NA,0.03703601986062178,0.19244744700988314
+codmpio,(Intercept),decisionEs autónoma,-0.028036406578757445,-0.37649086218476735
